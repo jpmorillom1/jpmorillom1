@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi / Salut / Hola, I'm Juan Pablo Morillo 👋
 🌎 I'm an aspiring **Full Stack Developer** from **Ecuador**  
 🎓 Currently studying **Information Systems Engineering**  
